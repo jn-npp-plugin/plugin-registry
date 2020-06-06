@@ -1,0 +1,6 @@
+{
+  "mycoolplugin":{
+    "url": "https://github.com/sieukrem/jn-plugins/plugins/mycoolplugin/plugin.json",
+    "description": "Cool plugin"
+  }
+}
