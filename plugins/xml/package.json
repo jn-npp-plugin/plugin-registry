@@ -2,5 +2,8 @@
 	"version": "1.0.0",
 	"name": "XML",
 	"description": "Simple tools for XML. Supports XPath selectors for fast grep of elements",
-	"main": "src/XML.js"
+	"main": "src/XML.js",
+	"files":[
+		"src/XML.js"
+	]
 }
