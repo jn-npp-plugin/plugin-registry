@@ -1,6 +1,7 @@
 {
-  "mycoolplugin":{
-    "url": "https://github.com/sieukrem/jn-plugins/plugins/mycoolplugin/plugin.json",
-    "description": "Cool plugin"
+  "XML":{
+    "url": "plugins/xml/package.json",
+    "description": "XPath selector support",
+    "version": "1.0.0"
   }
 }

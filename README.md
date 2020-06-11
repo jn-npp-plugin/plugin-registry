@@ -10,9 +10,10 @@ Fork this repository and add the link to your plugin in `plugins.json` then crea
 ```
 {
   ...
-  ,{
-    'name': 'My Cool Plugin'
-    'url':  'https://github.com/myaccount/mycoolplugin/plugin.json'
+  'My Cool Plugin',{
+    'description': 'My Cool Plugin',
+    'url':  'https://github.com/myaccount/mycoolplugin/plugin.json',
+    'version': '1.2.3'
   }
 }
 ```
