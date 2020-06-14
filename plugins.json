@@ -1,6 +1,6 @@
 {
   "XML":{
-    "url": "https://raw.githubusercontent.com/jn-npp-plugin/plugin-registry/master/plugins.json",
+    "url": "https://raw.githubusercontent.com/jn-npp-plugin/plugin-registry/master/plugins/xml/package.json",
     "description": "XPath selector support",
     "version": "1.0.0"
   }
